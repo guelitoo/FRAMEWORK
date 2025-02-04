@@ -1,0 +1,9 @@
+html{
+    background-color: rgb(215, 215, 215);
+}
+
+#logo{
+    display: flex;
+    justify-content: center;
+    margin-top: 7%;
+}
