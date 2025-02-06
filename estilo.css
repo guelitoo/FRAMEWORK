@@ -16,3 +16,10 @@ button:hover{
     background-color: aliceblue;
     color: rgb(115, 115, 115);
 }
+
+#centralizar{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    align-self: center !important;
+}
