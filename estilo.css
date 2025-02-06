@@ -7,3 +7,12 @@ html{
     justify-content: center;
     margin-top: 7%;
 }
+button{
+    background-color: rgb(214, 214, 214);
+    color: rgb(0, 0, 0);
+    border: 0px;
+}
+button:hover{
+    background-color: aliceblue;
+    color: rgb(115, 115, 115);
+}
